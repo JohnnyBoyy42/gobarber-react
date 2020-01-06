@@ -3,5 +3,5 @@ import React from 'react';
 // import { Container } from './styles';
 
 export default function Dashboard() {
-  return <h1>SignIn</h1>;
+  return <h1>Login</h1>;
 }
