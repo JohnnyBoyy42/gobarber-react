@@ -8,6 +8,7 @@ export default function SignIn() {
   function handleSubmit(data) {
     console.tron.log(data);
   }
+
   return (
     <>
       <img src={logo} alt="GoBarber" />
